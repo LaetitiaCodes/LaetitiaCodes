@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaetitiaCodes
 - 👀 I’m learning to code - from scratch! Real beginner. 
-- 🌱 I am motivated to learn coding, as it will be useful in my job (IT-Sales). Adding practice to my theoretical knowledge!
-- 💞️ I'm learning with SheCodes
+- 🌱 I'm working for an IT company. Learning to code will add practice to my theoretical knowledge!
+- 💞️ I'm learning with SheCodes.io
 - 📫 How to reach me: on LinkedIn, right here: https://www.linkedin.com/in/laetitia-ganglmair/
 
 <!---
